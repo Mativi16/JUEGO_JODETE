@@ -21,7 +21,7 @@ Ser el primer jugador en quedarse sin cartas.
 - **7:** también permite jugar nuevamente.  
 - **10:** permite cambiar el palo.  
 - **11:** saltea el turno del siguiente jugador.  
-- **12:** cambia el sentido del juego (En partidas de 2 jugadores, el 12 funciona como un bloqueo equivalente a saltear el turno).  
+- **12:** cambia el sentido del juego. En partidas de 2 jugadores, el 12 funciona como un bloqueo (equivalente a saltear el turno).  
 - **Comodín:** el jugador siguiente debe tomar 5 cartas del mazo.
 
 ### 3. ¡JODETE!
@@ -29,4 +29,5 @@ Cuando un jugador queda con una sola carta, debe anunciarlo diciendo “¡Jodete
 
 ### 4. Fin del juego
 El juego termina cuando un jugador consigue descartarse completamente todas sus cartas, convirtiéndose en el ganador de la partida.
+
 
